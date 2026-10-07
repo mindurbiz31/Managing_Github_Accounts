@@ -266,3 +266,6 @@ git remote set-url origin <new-url>  # Update remote URL
 
 ---
 
+[![Use 2 GitHub Accounts on 1 PC | Personal + Work Setup](https://img.youtube.com/vi/_IPSIRqw6KE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_IPSIRqw6KE)
+
+[![Watch Video on YouTube](https://img.youtube.com/vi/cm68GCEcBXU/maxresdefault.jpg)](https://www.youtube.com/watch?v=cm68GCEcBXU)
